@@ -112150,7 +112150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d71c826f7478b474a82dd1d55164836d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.VariableCondition
-  Operator: 0
+  Operator: 1
   targetVariable: {fileID: 11400000, guid: f73e7959c12f6f249aabfdc473c186fa, type: 2}
   operatorValue: 0
   textOperator: 0
